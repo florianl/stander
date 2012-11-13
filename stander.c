@@ -1,0 +1,1 @@
+i,j,k,d;p(z){putchar("UniBwM"[z%6]);}main(){scanf("%d",&d);p(j++);p(j++);putchar(10);for(;i<d*6+1;i++){p(j++);p(j++);if(i<3*d){k=i*2;}else{k=12*d-i*2;}for(;k!=0;k--)putchar(32);p(j++);p(j++);putchar(10);}for(i=0;i<2*d;i++){p(j++);p(j++);putchar(10);}}
